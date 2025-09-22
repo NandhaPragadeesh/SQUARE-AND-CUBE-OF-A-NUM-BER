@@ -71,11 +71,8 @@ MOVX @DPTR,A
 END
 
 ```
-
-
 ## OUTPUT
 <img width="1917" height="1015" alt="Screenshot 2025-09-22 220031" src="https://github.com/user-attachments/assets/bd247eee-3304-46b7-8fe8-8e87b21e866e" />
 <img width="1197" height="627" alt="Screenshot 2025-09-22 220111" src="https://github.com/user-attachments/assets/046f7a9f-cbfb-44d6-b092-b3c51a2bcd7b" />
-
 ## RESULT
 Thus, the cube of the given data is calculated using 8051 Keil.
